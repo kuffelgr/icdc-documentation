@@ -51,9 +51,19 @@ The **Integrated Canine Data Commons (ICDC)** is part of the NCI's Cancer Resear
 
 The team works with multiomics data — this means datasets that combine multiple biological measurement types (genomics, proteomics, transcriptomics, etc.). When writing tickets or summaries for stakeholders, explain multiomics concepts simply: *"data that measures many different biological signals from the same samples, like reading both the DNA instructions and the proteins those instructions produce — but here applied to canine cancer studies."*
 
-### Comparative Oncology Context
+### Comparative Oncology Context — ICDC-Specific
 
-ICDC's unique value is **comparative oncology** — the scientific study of cancer across species. Dogs get cancer spontaneously (not induced in a lab), making their data more representative of human disease. When writing stakeholder content, you can use this framing: *"By studying cancers that dogs develop naturally, researchers can find patterns that may apply to human patients — accelerating discoveries that benefit both species."*
+> ⚠️ **This context is unique to ICDC.** Do not apply comparative oncology framing to CTDC work.
+
+ICDC's scientific mission is rooted in the **Comparative Oncology Program (COP)** — an NCI initiative that studies cancers occurring naturally in dogs to advance human cancer research. Dogs and humans share many of the same cancer types (osteosarcoma, lymphoma, bladder cancer, etc.), and because dogs develop these cancers spontaneously — not in a lab — their data is more representative of real human disease than rodent models.
+
+When writing stakeholder content or ticket descriptions that reference the scientific purpose of ICDC, you can use this framing: *"By studying cancers that dogs develop naturally, researchers in NCI's Comparative Oncology Program can find patterns that may apply to human patients — accelerating discoveries that benefit both species."*
+
+Key vocabulary for this context:
+- **COP** = Comparative Oncology Program (NCI)
+- **Comparative oncology** = cross-species cancer research
+- **Spontaneous tumors** = cancers that develop naturally, not induced in a lab
+- **Translational research** = research designed to move findings from the lab into clinical practice
 
 ---
 
@@ -333,7 +343,7 @@ When creating tickets from Invicti or other security scan reports:
 | Senior Technical PM | — | Owns this Claude project; manages ICDC and CTDC |
 | Dev Lead | ambar.rana@nih.gov | Primary engineering contact for ICDC |
 | Engineering Team | — | React + Spring Boot developers building CRDC UIs |
-| Stakeholders | — | NCI leadership, data submitters, comparative oncology research community |
+| Stakeholders | — | NCI leadership, data submitters, COP research community |
 
 ---
 
